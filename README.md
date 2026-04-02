@@ -122,7 +122,7 @@ Create a `.env.local` file in the project root with the following:
 
 ```env
 # Supabase
-NEXT_PUBLIC_SUPABASE_URL=your_supabase_project_url
+NEXT_PUBLIC_SUPABASE_URL=https://xyzcompany.supabase.co
 NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 
 # App
